@@ -1,2 +1,2 @@
-# github-example
-This is an example of how to create a repository and set it up 
+# github-project codes
+This is the repository set up for different projects i have worked on 
